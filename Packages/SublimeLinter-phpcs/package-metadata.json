@@ -1,0 +1,1 @@
+{"platforms": ["*"], "version": "1.1.0", "dependencies": [], "description": "SublimeLinter plugin for PHP, using phpcs.", "url": "https://github.com/SublimeLinter/SublimeLinter-phpcs", "sublime_text": ">=3000"}

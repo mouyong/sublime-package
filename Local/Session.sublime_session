@@ -1,0 +1,818 @@
+{
+	"folder_history":
+	[
+		"/C/Users/baby/Code/bdwm",
+		"/C/Users/baby/Desktop/yilianyun",
+		"/C/Users/baby/Code/GatewayWorker",
+		"/C/Users/baby/Code/yilianyun",
+		"/C/Users/baby/Code/workerman",
+		"/C/Users/baby/Desktop/PHP",
+		"/C/Users/baby/Code/maixiangtong",
+		"/C/Users/baby/code/maixiangtong",
+		"/C/Users/baby/code/laradock",
+		"/C/Users/baby/code/bdwmapi"
+	],
+	"last_version": 3126,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 600.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"rename",
+						"fs.rename(oldPath, newPath, callback);"
+					],
+					[
+						"log",
+						"console.log();"
+					],
+					[
+						"cry",
+						"crypto.Certificate();"
+					],
+					[
+						"consol",
+						"console.log();"
+					],
+					[
+						"da",
+						"datastr"
+					],
+					[
+						"var",
+						"var_export"
+					],
+					[
+						"S",
+						"Square.php"
+					],
+					[
+						"imple",
+						"class_implements"
+					],
+					[
+						"class",
+						"class\tPHP: class declaration"
+					],
+					[
+						"php",
+						"php\tPHTML: <?php ... ?>"
+					],
+					[
+						"echo",
+						"echo\tPHTML: <?php echo ... ?>"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 490.0,
+				"last_filter": "pci",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"snippet",
+						"Snippet: COOKIE['…']"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"colortheme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"edi",
+						"Snippet: editorconfig"
+					],
+					[
+						"install",
+						"Nodejs::NPM::Install"
+					],
+					[
+						"pca",
+						"Package Control: Add Repository"
+					],
+					[
+						"space",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"dsp",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"dspa",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"delete space",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"trail",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"a",
+						"Autoprefix CSS"
+					],
+					[
+						"au",
+						"Autoprefix CSS"
+					],
+					[
+						"gist",
+						"Git: Show"
+					],
+					[
+						"pcrp",
+						"Package Control: Remove Package"
+					],
+					[
+						"gs",
+						"Git: Show Tags"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 725.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/baby/Code/bdwm/app/Http/Controllers/OrderController.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+				"/C/Users/baby/Code/bdwm/_ide_helper.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Colorsublime/Colorsublime.sublime-settings",
+				"/C/Users/baby/.ngrok2/ngrok.yml",
+				"/C/Users/baby/Desktop/js/app.js",
+				"/C/Users/baby/Desktop/1.txt",
+				"/C/Users/baby/Code/yilianyun/node_modules/formidable/lib/file.js",
+				"/C/Users/baby/Code/yilianyun/node_modules/events/events.js",
+				"/C/Users/baby/Desktop/爱捐衣.md",
+				"/C/Users/baby/Desktop/端午.txt",
+				"/D/Python/Python36-32/Scripts/pip.exe",
+				"/C/Users/baby/Desktop/2.txt",
+				"/C/Users/baby/Desktop/新建文本文档.txt",
+				"/C/Users/baby/Desktop/新建文本文档.txt.dump",
+				"/C/Users/baby/Code/GatewayWorker/Applications/YourApp/Events.php",
+				"/C/Users/baby/Code/yilianyun/.env",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Phpcs/Default (Windows).sublime-keymap",
+				"/C/Users/baby/Code/GatewayWorker/Applications/YourApp/start_businessworker.php",
+				"/C/Users/baby/Code/GatewayWorker/Applications/YourApp/start_register.php",
+				"/C/Users/baby/Code/GatewayWorker/Applications/YourApp/start_gateway.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/baby/Code/GatewayWorker/vendor/workerman/workerman/Protocols/BinaryTransfer.php",
+				"/D/php-7.1.5-nts-Win32-VC14-x64/php.ini",
+				"/C/Users/baby/Code/GatewayWorker/start.php",
+				"/C/Users/baby/Desktop/PHP/errorCode.php.dump",
+				"/C/Users/baby/Desktop/PHP/pkcs7Encoder.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Settings/SideBarEnhancements.json",
+				"/C/Users/baby/Code/maixiangtong/app/Http/Controllers/StatisticsController.php",
+				"/C/Users/baby/Code/maixiangtong/app/Http/Controllers/UserAuth/LoginController.php",
+				"/C/Users/baby/Code/maixiangtong/public/css/bootstrap-reset.css",
+				"/C/Users/baby/Code/maixiangtong/public/css/app.css.dump",
+				"/C/Users/baby/Code/maixiangtong/app/Http/Controllers/UserAuth/RegisterController.php",
+				"/C/Users/baby/Code/maixiangtong/composer.json",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Gist/Default (Windows).sublime-keymap",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/baby/Code/maixiangtong/app/Http/Controllers/Controller.php",
+				"/C/Users/baby/Code/maixiangtong/resources/views/comments/aside.blade.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/Package Control.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/AutoFileName/autofilename.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/DocBlockr/Base File.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/Base File.sublime-settings",
+				"/C/Users/baby/Code/GatewayWorker/vendor/workerman/workerman/Worker.php",
+				"/C/Users/baby/code/maixiangtong/resources/views/admin/auth/register.blade.php",
+				"/C/Users/baby/Code/laradock/nginx/sites/site.conf",
+				"/C/Users/baby/Code/workerman/web/learn/index.php",
+				"/C/Users/baby/Code/workerman/web/learn/Square.php",
+				"/C/Users/baby/Code/workerman/web/learn/Shape.php",
+				"/C/Users/baby/Code/workerman/composer.json",
+				"/C/Users/baby/Code/workerman/config/web.php",
+				"/C/Users/baby/Code/maixiangtong/resources/views/home.blade.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/php-snippets/CHANGELOG.md",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/php-snippets/README.md",
+				"/C/Users/baby/Code/maixiangtong/public/info.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/test.sublime-snippet",
+				"/C/Users/baby/Code/maixiangtong/public/css/style.css",
+				"/C/Users/baby/Code/maixiangtong/public/css/app.css",
+				"/C/Users/baby/Code/maixiangtong/phpunit.xml",
+				"/C/Users/baby/Code/maixiangtong/routes/api.php",
+				"/C/Users/baby/Desktop/a.bat"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"result",
+					"msg",
+					"result",
+					"msg",
+					"message",
+					"promist",
+					"promise",
+					"complete",
+					"demo",
+					"err",
+					"addresses",
+					"address",
+					");\n",
+					"addresses",
+					"add",
+					"cert1",
+					"spkac",
+					"cert1",
+					"宜宾：\n\t1. 蜀南竹海，仙女湖，海中海，天地一气，七彩飞瀑，忘忧谷。有竹筏，竹林小道，河流上的桥，乘船，观光缆车，山上有座庙，可以看瀑布！？感觉上最值得去。\n\n\t\t内江师范学院(四川省内江市东兴区苌弘路)->蜀南竹海风景名胜区    全程约: 5小时\n\n\t\t从四川省内江市东兴区苌弘路->内江站  15分钟。\n\t\t乘坐K9566/K9567次列车 , 在宜宾站下车  3小时\n\t\t从宜宾站至蜀南竹海风景名胜区 \t1 小时46分钟。\n\n\n\n\t2. 兴文石海洞乡,小路->天盆寺,回应钟，石雕天下第一漏斗，一线天，一线洞（图上看着不是特别高），七女峰，上山的小道上，夫妻峰，风瀑岩，红军岩，化石潭，猴子潭，豹子潭，3个观景台，3条小路.\n\n\t\t没找到推荐路线（驾车合适...）需要手机查查看。\n\n\t\t\t1->2  打车，200.\n\n\n\t3. 七洞沟景区，吊桥，充气的那种滑的游艇（漂流）？\t\t全程约: 4小时\n\n\n\t\t从内江师范学院至内江站\t\t  15分钟。\n\t\t乘坐K9566/K9567次列车 , 在宜宾站下车  3小时\n\t\t从宜宾站至七洞沟景区    1 小时 2分钟\n\n\n资阳：\n\t樱桃沟旅游区，这有樱桃。就像家里的山上中的树。。。\n\n\t\t需要手机查查看。\n\n\n自贡:\n\t自贡花海。花很多。可以体验骑单车的乐趣。有点单一，各种花\n\n\n\n\t尖山自然风景区。有好多好多桥、花树。凉亭，桃花桥，吊桥，树林，游船，魔影古堡。\n\n\t\tK9566/K956702:56 - 03:59\t\t全程约: 2小时\n\n\t\t从内江师范学院至内江站 \t\t  15分钟。\n\t\t乘坐K9566/K9567次列车 , 在自贡站下车   2小时\n\t\t从自贡站至尖山自然风景区\t\t39分钟\n\n\n\n泸州：\n\t黄荆老林，林，溪流上走，呃，，直接放弃！！！这玩意忒远了，还要重庆转\n\n\n\n\n注意，不管去哪，记得过马路什么的要注意她，照顾好她，带现金，卡，手机，移动电源，面巾纸，玩之前记得带水，地图，规划好路线，吃饭的地点（如果找不到临时找周围的地方吃），早晚时间。",
+					"滑",
+					"arr",
+					"\n          case 0:\n            //\n            break;",
+					"pr",
+					"\\\\",
+					"\",\n",
+					"\"sublimelinter_executable_map\"",
+					"public",
+					"protected",
+					"validator",
+					"Validator",
+					"LoginController",
+					"password",
+					"c",
+					"(${",
+					"if",
+					"php",
+					"source",
+					"CDATA",
+					"<snippet>\n\t<content><![CDATA[\nHello, ${1:this} is a ${2:snippet}.\n]]></content>\n\t<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->\n\t<!-- <tabTrigger>hello</tabTrigger> -->\n\t<!-- Optional: Set a scope to limit where the snippet will trigger -->\n\t<!-- <scope>source.python</scope> -->\n</snippet>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 89.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 279.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"rename",
+						"fs.rename(oldPath, newPath, callback);"
+					],
+					[
+						"log",
+						"console.log();"
+					],
+					[
+						"cry",
+						"crypto.Certificate();"
+					],
+					[
+						"consol",
+						"console.log();"
+					],
+					[
+						"da",
+						"datastr"
+					],
+					[
+						"var",
+						"var_export"
+					],
+					[
+						"S",
+						"Square.php"
+					],
+					[
+						"imple",
+						"class_implements"
+					],
+					[
+						"class",
+						"class\tPHP: class declaration"
+					],
+					[
+						"php",
+						"php\tPHTML: <?php ... ?>"
+					],
+					[
+						"echo",
+						"echo\tPHTML: <?php echo ... ?>"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 443.0,
+				"last_filter": "pci",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"editcon",
+						"Snippet: editorconfig"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"snippet",
+						"Snippet: COOKIE['…']"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"colortheme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"edi",
+						"Snippet: editorconfig"
+					],
+					[
+						"install",
+						"Nodejs::NPM::Install"
+					],
+					[
+						"pca",
+						"Package Control: Add Repository"
+					],
+					[
+						"space",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"dsp",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"dspa",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"delete space",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"trail",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"a",
+						"Autoprefix CSS"
+					],
+					[
+						"au",
+						"Autoprefix CSS"
+					],
+					[
+						"gist",
+						"Git: Show"
+					],
+					[
+						"pcrp",
+						"Package Control: Remove Package"
+					],
+					[
+						"gs",
+						"Git: Show Tags"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 703.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/baby/Code/bdwm/.editorconfig",
+				"/C/Users/baby/Code/bdwm/public/js/app.js",
+				"/C/Users/baby/Code/bdwm/routes/api.php",
+				"/C/Users/baby/Code/bdwm/app/Http/Controllers/OrderController.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+				"/C/Users/baby/Code/bdwm/_ide_helper.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Colorsublime/Colorsublime.sublime-settings",
+				"/C/Users/baby/.ngrok2/ngrok.yml",
+				"/C/Users/baby/Desktop/js/app.js",
+				"/C/Users/baby/Desktop/1.txt",
+				"/C/Users/baby/Code/yilianyun/node_modules/formidable/lib/file.js",
+				"/C/Users/baby/Code/yilianyun/node_modules/events/events.js",
+				"/C/Users/baby/Desktop/爱捐衣.md",
+				"/C/Users/baby/Desktop/端午.txt",
+				"/D/Python/Python36-32/Scripts/pip.exe",
+				"/C/Users/baby/Desktop/2.txt",
+				"/C/Users/baby/Desktop/新建文本文档.txt",
+				"/C/Users/baby/Desktop/新建文本文档.txt.dump",
+				"/C/Users/baby/Code/GatewayWorker/Applications/YourApp/Events.php",
+				"/C/Users/baby/Code/yilianyun/.env",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Phpcs/Default (Windows).sublime-keymap",
+				"/C/Users/baby/Code/GatewayWorker/Applications/YourApp/start_businessworker.php",
+				"/C/Users/baby/Code/GatewayWorker/Applications/YourApp/start_register.php",
+				"/C/Users/baby/Code/GatewayWorker/Applications/YourApp/start_gateway.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/baby/Code/GatewayWorker/vendor/workerman/workerman/Protocols/BinaryTransfer.php",
+				"/D/php-7.1.5-nts-Win32-VC14-x64/php.ini",
+				"/C/Users/baby/Code/GatewayWorker/start.php",
+				"/C/Users/baby/Desktop/PHP/errorCode.php.dump",
+				"/C/Users/baby/Desktop/PHP/pkcs7Encoder.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Settings/SideBarEnhancements.json",
+				"/C/Users/baby/Code/maixiangtong/app/Http/Controllers/StatisticsController.php",
+				"/C/Users/baby/Code/maixiangtong/app/Http/Controllers/UserAuth/LoginController.php",
+				"/C/Users/baby/Code/maixiangtong/public/css/bootstrap-reset.css",
+				"/C/Users/baby/Code/maixiangtong/public/css/app.css.dump",
+				"/C/Users/baby/Code/maixiangtong/app/Http/Controllers/UserAuth/RegisterController.php",
+				"/C/Users/baby/Code/maixiangtong/composer.json",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/Gist/Default (Windows).sublime-keymap",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/baby/Code/maixiangtong/app/Http/Controllers/Controller.php",
+				"/C/Users/baby/Code/maixiangtong/resources/views/comments/aside.blade.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/Package Control.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/AutoFileName/autofilename.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/DocBlockr/Base File.sublime-settings",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/Base File.sublime-settings",
+				"/C/Users/baby/Code/GatewayWorker/vendor/workerman/workerman/Worker.php",
+				"/C/Users/baby/code/maixiangtong/resources/views/admin/auth/register.blade.php",
+				"/C/Users/baby/Code/laradock/nginx/sites/site.conf",
+				"/C/Users/baby/Code/workerman/web/learn/index.php",
+				"/C/Users/baby/Code/workerman/web/learn/Square.php",
+				"/C/Users/baby/Code/workerman/web/learn/Shape.php",
+				"/C/Users/baby/Code/workerman/composer.json",
+				"/C/Users/baby/Code/workerman/config/web.php",
+				"/C/Users/baby/Code/maixiangtong/resources/views/home.blade.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/php-snippets/CHANGELOG.md",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/php-snippets/README.md",
+				"/C/Users/baby/Code/maixiangtong/public/info.php",
+				"/D/Sublime Text Build 3126 x64/Data/Packages/User/test.sublime-snippet",
+				"/C/Users/baby/Code/maixiangtong/public/css/style.css",
+				"/C/Users/baby/Code/maixiangtong/public/css/app.css",
+				"/C/Users/baby/Code/maixiangtong/phpunit.xml",
+				"/C/Users/baby/Code/maixiangtong/routes/api.php",
+				"/C/Users/baby/Desktop/a.bat"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"result",
+					"msg",
+					"result",
+					"msg",
+					"message",
+					"promist",
+					"promise",
+					"complete",
+					"demo",
+					"err",
+					"addresses",
+					"address",
+					");\n",
+					"addresses",
+					"add",
+					"cert1",
+					"spkac",
+					"cert1",
+					"宜宾：\n\t1. 蜀南竹海，仙女湖，海中海，天地一气，七彩飞瀑，忘忧谷。有竹筏，竹林小道，河流上的桥，乘船，观光缆车，山上有座庙，可以看瀑布！？感觉上最值得去。\n\n\t\t内江师范学院(四川省内江市东兴区苌弘路)->蜀南竹海风景名胜区    全程约: 5小时\n\n\t\t从四川省内江市东兴区苌弘路->内江站  15分钟。\n\t\t乘坐K9566/K9567次列车 , 在宜宾站下车  3小时\n\t\t从宜宾站至蜀南竹海风景名胜区 \t1 小时46分钟。\n\n\n\n\t2. 兴文石海洞乡,小路->天盆寺,回应钟，石雕天下第一漏斗，一线天，一线洞（图上看着不是特别高），七女峰，上山的小道上，夫妻峰，风瀑岩，红军岩，化石潭，猴子潭，豹子潭，3个观景台，3条小路.\n\n\t\t没找到推荐路线（驾车合适...）需要手机查查看。\n\n\t\t\t1->2  打车，200.\n\n\n\t3. 七洞沟景区，吊桥，充气的那种滑的游艇（漂流）？\t\t全程约: 4小时\n\n\n\t\t从内江师范学院至内江站\t\t  15分钟。\n\t\t乘坐K9566/K9567次列车 , 在宜宾站下车  3小时\n\t\t从宜宾站至七洞沟景区    1 小时 2分钟\n\n\n资阳：\n\t樱桃沟旅游区，这有樱桃。就像家里的山上中的树。。。\n\n\t\t需要手机查查看。\n\n\n自贡:\n\t自贡花海。花很多。可以体验骑单车的乐趣。有点单一，各种花\n\n\n\n\t尖山自然风景区。有好多好多桥、花树。凉亭，桃花桥，吊桥，树林，游船，魔影古堡。\n\n\t\tK9566/K956702:56 - 03:59\t\t全程约: 2小时\n\n\t\t从内江师范学院至内江站 \t\t  15分钟。\n\t\t乘坐K9566/K9567次列车 , 在自贡站下车   2小时\n\t\t从自贡站至尖山自然风景区\t\t39分钟\n\n\n\n泸州：\n\t黄荆老林，林，溪流上走，呃，，直接放弃！！！这玩意忒远了，还要重庆转\n\n\n\n\n注意，不管去哪，记得过马路什么的要注意她，照顾好她，带现金，卡，手机，移动电源，面巾纸，玩之前记得带水，地图，规划好路线，吃饭的地点（如果找不到临时找周围的地方吃），早晚时间。",
+					"滑",
+					"arr",
+					"\n          case 0:\n            //\n            break;",
+					"pr",
+					"\\\\",
+					"\",\n",
+					"\"sublimelinter_executable_map\"",
+					"public",
+					"protected",
+					"validator",
+					"Validator",
+					"LoginController",
+					"password",
+					"c",
+					"(${",
+					"if",
+					"php",
+					"source",
+					"CDATA",
+					"<snippet>\n\t<content><![CDATA[\nHello, ${1:this} is a ${2:snippet}.\n]]></content>\n\t<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->\n\t<!-- <tabTrigger>hello</tabTrigger> -->\n\t<!-- Optional: Set a scope to limit where the snippet will trigger -->\n\t<!-- <scope>source.python</scope> -->\n</snippet>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 89.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,805,912,133,1730",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 279.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 19,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
